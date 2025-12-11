@@ -1,0 +1,2 @@
+# eddibot.json
+insta shuffle
